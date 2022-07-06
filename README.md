@@ -1,2 +1,2 @@
 # C#
-Reading oximeter data using C# and Windows Runtime
+Reading oximeter using C# and Windows Runtime
